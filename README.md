@@ -60,11 +60,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=usernameNiD4niel&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=usernameNiD4niel&theme=dark&background=000000)](https://git.io/streak-stats) --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usernameNiD4niel&theme=gruvbox-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameNiD4niel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 usernameNiD4niel/usernameNiD4niel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
