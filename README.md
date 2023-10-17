@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in creating a website and developing android apps
-- 🌱 I’m currently learning Android Development(Java) and Javascript
-- 💞️ I’m looking to collaborate on creating interactive and responsive website
-- 📫 How to reach me? email me on danielrey10252000@gmail.com or DM on facebook: https://www.facebook.com/daniel.rey.9440/
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -19,12 +14,16 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=usernameNiD4niel&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hi, my name is Daniel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+  ---
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 </div>
 
 
