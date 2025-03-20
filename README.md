@@ -44,7 +44,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameNiD4niel)](https://github.com/anuraghazra/github-readme-stats) --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameNiD4niel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernameNiD4niel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernameNiD4niel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&layout=compact&theme=vision-friendly-dark)
 
 <!---
 usernameNiD4niel/usernameNiD4niel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
