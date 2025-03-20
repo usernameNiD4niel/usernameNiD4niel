@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif?cid=82a1493b2ehkw0wymug334f7wv453py2bmgui1xr9w4frfhu&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/daniel-rey-340468206">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
